@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.feedback-button {
+  cursor: pointer;
+  width: 75px;
+  height: 30px;
+  border: none;
+  background-color: aquamarine;
+}

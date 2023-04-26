@@ -1,4 +1,7 @@
 @import-normalize; /* bring in normalize.css styles */
+@import '/src/components/App/app.css';
+@import '/src/components/Statistics/statistics.css';
+@import '/src/components/FeedbackOptions/feedbackOptions.css';
 
 body {
   margin: 0;
